@@ -46,6 +46,6 @@ public class Movies extends Application {
         stage.setTitle("Movies");
         stage.setScene(scene);
         stage.show();
-
+        
     }
 }
